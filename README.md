@@ -13,7 +13,7 @@ Join AtliQ Hardware, a leading company in the PC, mouse, and computer market. De
 
 ## Finance Report 
 
-   **1** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Rohesen/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Rohesen/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+   **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Rohesen/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Rohesen/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Rohesen/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
